@@ -1,7 +1,7 @@
 
 const SubjectCreate = () => {
     return (
-        <div>Create</div>
+        <div>Hola amigo</div>
     )
 }
 export default SubjectCreate
