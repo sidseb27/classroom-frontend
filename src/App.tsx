@@ -9,7 +9,7 @@ import routerProvider, {
   UnsavedChangesNotifier,
   DocumentTitleHandler,
 } from "@refinedev/react-router";
-import { dataProvider } from "./providers/data";
+import { dataProvider } from "./providers/data.ts";
 // for now it too annyoinh
 //import { Login } from "./pages/login";
 //import { Register } from "./pages/register";
